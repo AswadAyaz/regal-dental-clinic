@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /images/_needs-consent/
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
